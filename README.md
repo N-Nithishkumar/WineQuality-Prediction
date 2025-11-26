@@ -1,9 +1,6 @@
-# WineQuality-Prediction
-  A machine learning project that predicts wine quality based on features like acidity, sugar, pH, and alcohol. Models such as Random Forest or SVM are trained on wine datasets to classify or score wine quality automatically.
-
 # Wine Quality Predictor 🍷
 
-A full-stack machine learning project that predicts **red wine quality** using both **regression** and **classification**, with a **modern web UI** and **SQLite history tracking**.
+  A full-stack machine learning project that predicts **red wine quality** using both **regression** and **classification**, with a **modern web UI** and **SQLite history tracking**.
 
 Built with:
 
@@ -14,7 +11,7 @@ Built with:
 
 ---
 
-## 🔍 Project Overview
+# Project Overview
 
 Given the physicochemical properties of a red wine sample (acidity, pH, alcohol, etc.), the app:
 
@@ -47,7 +44,7 @@ Both models are wrapped with **`StandardScaler`** inside sklearn **Pipelines** a
 
 ---
 
-## 🖥️ App Features
+# App Features
 
 - Clean, responsive **single-page layout**.
 - Input form for all 11 wine features.
@@ -63,7 +60,7 @@ Both models are wrapped with **`StandardScaler`** inside sklearn **Pipelines** a
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 - **Backend**: Flask, Flask-SQLAlchemy
 - **ML**: scikit-learn, pandas, numpy
@@ -72,7 +69,7 @@ Both models are wrapped with **`StandardScaler`** inside sklearn **Pipelines** a
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 ```text
 .
