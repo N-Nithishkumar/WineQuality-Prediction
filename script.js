@@ -52,7 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function qualityToStars(quality) {
-    // Map 0–10 to 0–5 stars
     const stars = Math.max(0, Math.min(5, Math.round((quality / 10) * 5)));
     let out = "";
     for (let i = 0; i < 5; i++) {
@@ -176,7 +175,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  // Load history whenever the modal is opened
   const historyModal = document.getElementById("historyModal");
   if (historyModal) {
     historyModal.addEventListener("shown.bs.modal", () => {
@@ -184,4 +182,3 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
------------
