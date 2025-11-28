@@ -66,7 +66,7 @@ Both models are wrapped with **`StandardScaler`** inside sklearn **Pipelines** a
 - **ML**: scikit-learn, pandas, numpy
 - **Database**: SQLite
 - **Frontend**: HTML5, CSS3, Bootstrap 5, Vanilla JS
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
 
 # Project Structure
