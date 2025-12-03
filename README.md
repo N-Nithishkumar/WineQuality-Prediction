@@ -56,7 +56,7 @@ Both models are wrapped with **`StandardScaler`** inside sklearn **Pipelines** a
 - **History panel**:
   - Triggered by a **History** button with an icon.
   - Opens a modal showing the latest predictions (time, score, label, main features).
-- **SQLite** database persists prediction history across runs...
+- **SQLite** database persists prediction history across runs.
 
 ---
 
