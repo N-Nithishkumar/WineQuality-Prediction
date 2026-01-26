@@ -60,7 +60,7 @@ Both models are wrapped with **`StandardScaler`** inside sklearn **Pipelines** a
 
 ---
 
-# Tech Stack
+# Tech Stacks
 
 - **Backend**: Flask, Flask-SQLAlchemy
 - **ML**: scikit-learn, pandas, numpy
