@@ -7,7 +7,7 @@ Built with:
 - 🐍 **Python + Flask**
 - 🤖 **scikit-learn** (Random Forest Regressor & Classifier)
 - 🗄️ **SQLite** via Flask-SQLAlchemy
-- 🎨 **HTML + CSS + Bootstrap + JS** (custom dark UI)
+- 🎨 **HTML + CSS + Bootstrap + JS** (custom dark UI) 
 
 ---
 
