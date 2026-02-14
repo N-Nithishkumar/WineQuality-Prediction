@@ -13,7 +13,7 @@ Built with:
 
 # Project Overview
 
-Given the physicochemical properties of a red wine sample (acidity, pH, alcohol, etc.), the app:
+Given the physicochemical properties of a red wine sample (acidity, pH, alcohol, etc,..), the app:
 
 1. Predicts a **numeric quality score** (0–10) using regression.
 2. Maps it to a **quality label**:
